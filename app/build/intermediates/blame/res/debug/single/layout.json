@@ -12,6 +12,10 @@
         "source": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/res/merged/debug/layout/fragment_money_exchange.xml",
+        "source": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/src/main/res/layout/fragment_money_exchange.xml"
+    },
+    {
         "merged": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
     },
@@ -38,6 +42,10 @@
     {
         "merged": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/res/merged/debug/layout/fragment_tip_calculator.xml",
+        "source": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/src/main/res/layout/fragment_tip_calculator.xml"
     },
     {
         "merged": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -102,6 +110,10 @@
     {
         "merged": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
         "source": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/res/merged/debug/layout/fragment_unit_conversion.xml",
+        "source": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/src/main/res/layout/fragment_unit_conversion.xml"
     },
     {
         "merged": "/Users/BabyJ/Desktop/Sk00/ITP341/A5/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",

@@ -16,17 +16,36 @@
         android:orientation="horizontal" >
 
         <Button
+            android:id="@+id/buttonTip"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/buttonTipDescription"
+            android:textSize="12sp" />
 
         <Button
+            android:id="@+id/buttonUnit"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/buttonUnitDescription"
+            android:textSize="12sp" />
 
         <Button
+            android:id="@+id/buttonMoney"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/buttonMoneyDescription"
+            android:textSize="12sp" />
 
     </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </FrameLayout>
+
 
 </LinearLayout>
