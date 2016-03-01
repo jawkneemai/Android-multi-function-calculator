@@ -6,6 +6,11 @@
         <item>3 ways</item>
         <item>4 ways</item>
     </string-array>
+    <string-array name="spinnerMoneyOptions">
+        <item>USD</item>
+        <item>Yuan</item>
+        <item>Euro</item>
+    </string-array>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
@@ -222,18 +227,32 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">Universal App</string>
     <string name="bill_amount_text">Bill Amount</string>
+    <string name="buttonConvertText">Convert</string>
     <string name="buttonMoneyDescription">Money Exchange</string>
     <string name="buttonTipDescription">Tip Calculator</string>
     <string name="buttonUnitDescription">Unit Conversion</string>
+    <string name="centimeters">centimeters</string>
     <string name="default_money">$0.00</string>
     <string name="default_percent">15</string>
+    <string name="dollarSign">$</string>
+    <string name="empty_amount_error">You must enter an amount.</string>
+    <string name="error_radio_button">You must choose an option.</string>
+    <string name="feet">feet</string>
+    <string name="from">From:</string>
+    <string name="kilometers">kilometers</string>
+    <string name="meters">meters</string>
+    <string name="miles">miles</string>
     <string name="per_person_text">Per Person</string>
     <string name="percent_sign">%</string>
     <string name="percent_text">Percent</string>
     <string name="split_bill_text">Split Bill?</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="textResult">Result:</string>
     <string name="tip_text">Tip</string>
+    <string name="to">To:</string>
     <string name="total_text">Total</string>
+    <string name="unit_con_to">To:</string>
+    <string name="unit_conv_from">From:</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
